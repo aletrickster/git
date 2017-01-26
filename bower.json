@@ -1,0 +1,11 @@
+{
+  "name": "hellow-word",
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "jquery": "~2.1.x",
+    "modernizr": "~2.6.2"
+  },
+  "devDependencies": {
+    "swiper": "^3.4.1"
+  }
+}
